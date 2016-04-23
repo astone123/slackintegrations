@@ -4,8 +4,8 @@
   "description": "app for slack integrations",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "bar ./test"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Adam Stone",
   "license": "MIT",
